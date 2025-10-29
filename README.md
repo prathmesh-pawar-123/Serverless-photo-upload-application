@@ -90,9 +90,9 @@ Create a bucket in your region (e.g., ap-southeast-1)
 Enable public read access (or use pre-signed URLs for security)
 
 
-![](./img/S3-output.png)
+![](./image/Screenshot%202025-10-29%20153045.png)
 
-
+![](.)
 ## Lambda Permissions:
 
 Attach AmazonS3FullAccess to Lambda execution role
