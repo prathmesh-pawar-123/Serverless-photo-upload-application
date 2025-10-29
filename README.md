@@ -99,7 +99,7 @@ Attach AmazonS3FullAccess to Lambda execution role
 
 
 ![](./image/Screenshot%202025-10-29%20153223.png)
-
+![](./image/Screenshot%202025-10-29%20153314.png)
 
 ## API Gateway:
 
