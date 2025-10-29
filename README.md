@@ -92,7 +92,7 @@ Enable public read access (or use pre-signed URLs for security)
 
 ![](./image/Screenshot%202025-10-29%20153045.png)
 
-![](.)
+![](./image/Screenshot%202025-10-29%20153131.png)
 ## Lambda Permissions:
 
 Attach AmazonS3FullAccess to Lambda execution role
