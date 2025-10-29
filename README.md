@@ -98,7 +98,7 @@ Enable public read access (or use pre-signed URLs for security)
 Attach AmazonS3FullAccess to Lambda execution role
 
 
-![](./img/IAM.png)
+![](./image/Screenshot%202025-10-29%20153223.png)
 
 
 ## API Gateway:
