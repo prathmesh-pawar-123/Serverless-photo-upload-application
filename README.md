@@ -107,7 +107,7 @@ Create HTTP API
 
 Route: POST /upload → Lambda integration
 
-![](./img/api-route.png)
+![](./image/Screenshot%202025-10-29%20153345.png)
 
 
 Enable CORS: Allowed Origins *, Allowed Methods POST
