@@ -68,7 +68,7 @@ Open browser: http://127.0.0.1:5000
 🖌 Usage
 
 
-![](./img/output.png)
+![](./image/Screenshot%202025-10-29%20153024.png)
 
 
 Open the app in your browser
